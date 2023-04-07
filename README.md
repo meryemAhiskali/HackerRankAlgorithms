@@ -1,1 +1,1 @@
-# HackerrankAlgorithms
+# HackerRankAlgorithms
