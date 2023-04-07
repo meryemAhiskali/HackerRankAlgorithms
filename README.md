@@ -1,4 +1,4 @@
-# HackerRankAlgorithms
+# HackerRank Algorithms
 
 This repository contains the solutions to the algorithm questions on the Hackerrank platform. Each question has a corresponding Java file with the same name as the question.
 
